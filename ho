@@ -1,0 +1,29 @@
+[33mcommit 71c0d1ac7729b24e65ab83dd8f2edcdf8202142e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: yusuf <yusuf@gmail.com>
+Date:   Sun Sep 7 18:35:08 2025 +0000
+
+    ignore csv files
+
+[33mcommit 4d5f8e254c1f701dfa6ee2a2af3b1d14ac85a8a3[m
+Author: yusuf <yusuf@gmail.com>
+Date:   Sun Sep 7 16:15:54 2025 +0000
+
+    ignore fiel format
+
+[33mcommit 33bebbf37da737687240899ea5d99abdc6080720[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: yusuf <yusuf@gmail.com>
+Date:   Sun Sep 7 15:06:39 2025 +0000
+
+    git 4th commit form hyd to commit file 9
+
+[33mcommit c93d94469d614ed3fe342032df119cdabbfd2a3a[m
+Author: ajay <ajay@gmail.com>
+Date:   Sun Sep 7 14:36:52 2025 +0000
+
+    3rd commit docker image comments by amer
+
+[33mcommit c6fc0966e8d1a5a5da51f4362472e6050daf8199[m
+Author: ajay <ajay@gmail.com>
+Date:   Sun Sep 7 14:32:20 2025 +0000
+
+    second commit after cloning
